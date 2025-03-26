@@ -1,14 +1,6 @@
 # Информация о наборе данных
-
-## Авторы датасета
-National Library of Medicine (IRB#12972)
-
-Ссылка на оригинал датасета: https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/imageprocessing/malaria-screener.html
-
-### Для цитирования: 
-
-Rajaraman S, Antani SK, Poostchi M, Silamut K, Hossain MA, Maude RJ, Jaeger S, Thoma GR. 2018. Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images. PeerJ 6:e4568
-https://doi.org/10.7717/peerj.4568
+## Ссылка для скачивания
+https://github.com/ds-book/dataset-mcid/blob/main/Malaria%20Cell%20Images%20Dataset.zip
 
 ## Версия датасета
 
@@ -19,4 +11,10 @@ https://doi.org/10.7717/peerj.4568
 
 В файле «cell_images.zip» содержатся две папки с нарезанными изображениями инфицированных (Parasitized) и неинфицированных (Uninfected) эритроцитов, которые можно использовать для машинного обучения. 
 
-Оригинальные цифровые микрофотографии мазков крови можно скачать по ссылке: https://data.lhncbc.nlm.nih.gov/public/Malaria/NIH-NLM-ThinBloodSmearsPf/NIH-NLMThinBloodSmearsPf.zip
+## Авторы датасета
+National Library of Medicine (IRB#12972)
+
+### Для цитирования: 
+
+Rajaraman S, Antani SK, Poostchi M, Silamut K, Hossain MA, Maude RJ, Jaeger S, Thoma GR. 2018. Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images. PeerJ 6:e4568
+https://doi.org/10.7717/peerj.4568
